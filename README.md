@@ -1,4 +1,3 @@
-Aqui está a estrutura para o `README.md` (em inglês e português) e a descrição do repositório:
 
 ---
 
